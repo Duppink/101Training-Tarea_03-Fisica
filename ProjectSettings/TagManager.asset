@@ -9,6 +9,7 @@ TagManager:
   - Enemigo2
   - Win
   - Bala
+  - Otro
   layers:
   - Default
   - TransparentFX

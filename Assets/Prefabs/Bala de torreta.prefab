@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 9161340991586541503}
   - component: {fileID: -8199391226078589377}
   - component: {fileID: -3957521905017880238}
+  - component: {fileID: 5074492423863391792}
   m_Layer: 0
   m_Name: Bala de torreta
   m_TagString: Bala
@@ -131,3 +132,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &5074492423863391792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8808882217879292927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e0ef45ee1e94da4d8512e9c90a130cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

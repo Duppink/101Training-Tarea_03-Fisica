@@ -3025,7 +3025,7 @@ GameObject:
   - component: {fileID: 826281953}
   m_Layer: 0
   m_Name: Empujadores
-  m_TagString: Untagged
+  m_TagString: Otro
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5845,7 +5845,7 @@ GameObject:
   - component: {fileID: 1577543323}
   m_Layer: 7
   m_Name: Rebotinas
-  m_TagString: Untagged
+  m_TagString: Otro
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
